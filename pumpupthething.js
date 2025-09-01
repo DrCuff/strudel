@@ -1,8 +1,8 @@
 
 /*
-  @title Repump the Jam v1.1
+  @title Repump the Jam v1.2
   @by ChromaMagic
-  @details strudel demo
+  @details strudel demo piano thing
 */
 
 let cpm = 120/4;
@@ -62,4 +62,4 @@ arrange (
   [4, v2],
 ).cpm(cpm);
 
-// @version 1.1
+// @version 1.2
