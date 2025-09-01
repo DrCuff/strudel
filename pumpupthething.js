@@ -1,6 +1,6 @@
 
 /*
-  @title Repump the Jam v1.0
+  @title Repump the Jam v1.1
   @by ChromaMagic
   @details strudel demo
 */
@@ -62,4 +62,4 @@ arrange (
   [4, v2],
 ).cpm(cpm);
 
-// @version 1.0
+// @version 1.1
